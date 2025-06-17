@@ -1,0 +1,9 @@
+﻿  main.c
+  Source.c
+  Generating Code...
+C:\Users\dell\Documents\programming projects\Integral_solver\Integral_solver\main.c(38,18): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+C:\Users\dell\Documents\programming projects\Integral_solver\Integral_solver\main.c(8,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\dell\Documents\programming projects\Integral_solver\Integral_solver\main.c(9,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\dell\Documents\programming projects\Integral_solver\Integral_solver\main.c(12,9): warning C4101: 'result': unreferenced local variable
+C:\Users\dell\Documents\programming projects\Integral_solver\Integral_solver\Source.c(98,1): warning C4715: 'calculateByMethod': not all control paths return a value
+  Integral_solver.vcxproj -> C:\Users\dell\Documents\programming projects\Integral_solver\x64\Debug\Integral_solver.exe
